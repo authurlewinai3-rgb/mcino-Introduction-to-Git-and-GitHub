@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p * t * r
-```Fix spacing in simple interest formula
+```
+Fix spacing in simple interest formula
 
 _© 2022 XYZ, Inc._
